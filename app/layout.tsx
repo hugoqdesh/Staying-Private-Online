@@ -6,7 +6,7 @@ import { ThemeProvider } from "@/components/theme-provider";
 const font = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Veilr - Online Privacy",
+  title: "Veilr - Online Anonymity",
   description: "Make your online life private and secure",
   keywords: [
     "veilr",
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
   creator: "@hugoqdesh",
   // robots: "index, follow",
   openGraph: {
-    title: "Veilr - Online Privacy",
+    title: "Veilr - Online Anonymity",
     description: "Make your online life private and secure",
     url: "/opengraph-image.png",
     siteName: "Veilr",
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
 
   twitter: {
-    title: "Veilr - Online Privacy",
+    title: "Veilr - Online Anonymity",
     description: "Make your online life private and secure",
     card: "summary_large_image",
     creator: "@hugoqdesh",
