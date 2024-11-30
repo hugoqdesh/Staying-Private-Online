@@ -15,10 +15,10 @@ const Level1 = () => {
             </div>
 
             <div className="space-y-8">
-              <div className="rounded-lg border-2 border-primary/10 p-6">
+              <div className="rounded-lg border-2 border-green-500/10 p-6">
                 <div className="space-y-4">
                   <div className="prose prose-sm max-w-none">
-                    <ol className="list-decimal pl-4 space-y-4">
+                    <ol className="list-decimal pl-6 space-y-6 text-lg">
                       <li>
                         Protect your phone and computer with a strong password
                       </li>
@@ -38,8 +38,6 @@ const Level1 = () => {
                       <li>
                         Secure your computer BIOS:
                         <ul className="list-disc pl-4 mt-2">
-                          <li></li>
-                          <li></li>
                           <li></li>
                         </ul>
                       </li>
@@ -62,10 +60,10 @@ const Level1 = () => {
                 </div>
               </div>
 
-              <div className="rounded-lg border-2 border-primary/10 p-6">
+              <div className="rounded-lg border-2 border-green-500/10 p-6">
                 <div className="space-y-4">
                   <div className="prose prose-sm max-w-none">
-                    <ol className="list-decimal pl-4 space-y-4">
+                    <ol className="list-decimal pl-6 space-y-6 text-lg">
                       <li>Regularly update your software and apps</li>
                       <li>
                         Never share your passwords with anyone to maintain your

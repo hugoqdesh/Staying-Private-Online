@@ -17,10 +17,10 @@ const Level3 = () => {
             </div>
 
             <div className="space-y-8">
-              <div className="rounded-lg border-2 border-primary/10 p-6">
+              <div className="rounded-lg border-2 border-green-500/10 p-6">
                 <div className="space-y-4">
                   <div className="prose prose-sm max-w-none">
-                    <ol className="list-decimal pl-4 space-y-4">
+                    <ol className="list-decimal pl-6 space-y-6 text-lg">
                       <li>Switch to Tor Browser for anonymous browsing</li>
                       <li>Install Tails OS</li>
                       <li>Install F-Droid and Aurora Store from there</li>
@@ -74,10 +74,10 @@ const Level3 = () => {
                 </div>
               </div>
 
-              <div className="rounded-lg border-2 border-primary/10 p-6">
+              <div className="rounded-lg border-2 border-green-500/10 p-6">
                 <div className="space-y-4">
                   <div className="prose prose-sm max-w-none">
-                    <ol className="list-decimal pl-4 space-y-4">
+                    <ol className="list-decimal pl-6 space-y-6 text-lg">
                       <li>Use fake information about yourself where you can</li>
                       <li>
                         Pay with Monero or cash whenever possible to avoid being

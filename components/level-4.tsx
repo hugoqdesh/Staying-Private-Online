@@ -15,10 +15,10 @@ const Level4 = () => {
             </div>
 
             <div className="space-y-8">
-              <div className="rounded-lg border-2 border-primary/10 p-6">
+              <div className="rounded-lg border-2 border-green-500/10 p-6">
                 <div className="space-y-4">
                   <div className="prose prose-sm max-w-none">
-                    <ol className="list-decimal pl-4 space-y-4">
+                    <ol className="list-decimal pl-6 space-y-6 text-lg">
                       <li>
                         Build a ghost, untraceable laptop [Build a Ghost
                         Untraceable Laptop]
@@ -48,10 +48,10 @@ const Level4 = () => {
                 </div>
               </div>
 
-              <div className="rounded-lg border-2 border-primary/10 p-6">
+              <div className="rounded-lg border-2 border-green-500/10 p-6">
                 <div className="space-y-4">
                   <div className="prose prose-sm max-w-none">
-                    <ol className="list-decimal pl-4 space-y-4">
+                    <ol className="list-decimal pl-6 space-y-6 text-lg">
                       <li>
                         Never use real identification for any online or offline
                         activity

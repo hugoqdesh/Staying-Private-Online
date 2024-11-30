@@ -24,7 +24,7 @@ export default function Home() {
               family, or your organization."
             </blockquote>
 
-            <div className="mt-12 rounded-2xl p-6 sm:p-8 bg-card border border-border shadow-sm">
+            <div className="mt-12 rounded-2xl p-6 sm:p-8 bg-card border-2 border-green-500/10 shadow-sm">
               <div className="space-y-4 text-lg">
                 <p className="leading-relaxed">
                   In this modern world, privacy is growing peoples concern and
@@ -43,7 +43,7 @@ export default function Home() {
                 Also check out the{" "}
                 <Link
                   href="/settings"
-                  className="underline hover:text-foreground"
+                  className="underline underline-offset-4 hover:text-green-500/80 transition-colors"
                 >
                   settings page
                 </Link>
