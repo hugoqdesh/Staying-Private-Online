@@ -1,65 +1,105 @@
-import Image from "next/image";
 import React from "react";
 
 const Level1 = () => {
   return (
-    <div className="py-32 px-8 max-w-6xl mx-auto">
-      <div className="flex flex-col items-center justify-center space-y-10 mb-10">
-        <div className="relative group cursor-pointer">
-          <div className="absolute inset-0 bg-primary/10 rounded-full opacity-0 group-hover:opacity-100 transition-opacity" />
-          <Image
-            src="/level1.png"
-            alt="Level 1"
-            width={200}
-            height={200}
-            className="rounded-full border-2 border-primary/20 p-3 shadow-lg transition-transform group-hover:scale-105"
-          />
+    <div className="py-32 px-8 max-w-7xl mx-auto">
+      <main>
+        <div className="mb-6">
+          <h1 className="text-4xl font-bold mb-4">Level 1</h1>
         </div>
-        <div className="space-y-6">
-          <h2 className="text-4xl font-bold text-center">Level 1</h2>
-        </div>
-      </div>
 
-      <div className="rounded-2xl p-8 md:p-12 mb-16 border-2 border-primary/10 text-start bg-primary/5 shadow-xl">
-        <h3 className="text-3xl font-semibold mb-10 text-primary/90">
-          Privacy Measures
-        </h3>
-        <ol className="space-y-6 max-w-3xl mx-auto text-lg list-decimal list-inside">
-          <li className="p-3 hover:bg-primary/5 rounded-lg transition-colors">
-            Protect your phone and computer with a strong password
-          </li>
-          <li className="p-3 hover:bg-primary/5 rounded-lg transition-colors">
-            Download and use a password manager like KeePassXC (KeePassDX for
-            Android) or Bitwarden to store passwords securely
-          </li>
-          <li className="p-3 hover:bg-primary/5 rounded-lg transition-colors">
-            Enable Two-Factor Authentication (2FA) using Aegis for Android or
-            Tofu for iOS
-          </li>
-          <li className="p-3 hover:bg-primary/5 rounded-lg transition-colors">
-            Set up a password for your SIM card
-          </li>
-          <li className="p-3 hover:bg-primary/5 rounded-lg transition-colors">
-            Never share your passwords with anyone to maintain your account's
-            privacy
-          </li>
-          <li className="p-3 hover:bg-primary/5 rounded-lg transition-colors">
-            Regularly update your software and apps to patch security
-            vulnerabilities
-          </li>
-          <li className="p-3 hover:bg-primary/5 rounded-lg transition-colors">
-            Always ensure you're browsing using HTTPS connections
-          </li>
-          <li className="p-3 hover:bg-primary/5 rounded-lg transition-colors">
-            Avoid clicking on unknown or suspicious links to prevent phishing
-            and malware attacks
-          </li>
-          <li className="p-3 hover:bg-primary/5 rounded-lg transition-colors">
-            Never plug random or untrusted USB devices into your computer or
-            phone
-          </li>
-        </ol>
-      </div>
+        <div className="space-y-16">
+          <section id="device-security">
+            <div className="flex items-center gap-2 mb-6">
+              <h2 className="text-2xl font-semibold">Privacy Measures</h2>
+            </div>
+
+            <div className="space-y-8">
+              <div className="rounded-lg border-2 border-primary/10 p-6">
+                <div className="space-y-4">
+                  <div className="prose prose-sm max-w-none">
+                    <ol className="list-decimal pl-4 space-y-4">
+                      <li>
+                        Protect your phone and computer with a strong password
+                      </li>
+                      <li>Disable biometrics on your devices</li>
+                      <li>
+                        Download and use a password manager:
+                        <ul className="list-disc pl-4 mt-2">
+                          <li>
+                            Desktop: KeePassXC (recommended for offline use)
+                          </li>
+                          <li>
+                            Mobile: KeePassDX (Android) or Bitwarden (iOS)
+                          </li>
+                          <li>Create a strong master password</li>
+                        </ul>
+                      </li>
+                      <li>
+                        Secure your computer BIOS:
+                        <ul className="list-disc pl-4 mt-2">
+                          <li></li>
+                          <li></li>
+                          <li></li>
+                        </ul>
+                      </li>
+                      <li>
+                        Enable Two-Factor Authentication (2FA)
+                        <ul className="list-disc pl-4 mt-2">
+                          <li>Android: Aegis</li>
+                          <li>iOS: Tofu</li>
+                        </ul>
+                      </li>
+                      <li>Set up a password for your SIM card</li>
+                      <li>Set a strong password for your router</li>
+                      <li>Keep Bluetooth and NFC off when not in use</li>
+                      <li>Disable notifications from lock screen</li>
+                      <li>
+                        Opt out of phone OS analytics and tracking services
+                      </li>
+                    </ol>
+                  </div>
+                </div>
+              </div>
+
+              <div className="rounded-lg border-2 border-primary/10 p-6">
+                <div className="space-y-4">
+                  <div className="prose prose-sm max-w-none">
+                    <ol className="list-decimal pl-4 space-y-4">
+                      <li>Regularly update your software and apps</li>
+                      <li>
+                        Never share your passwords with anyone to maintain your
+                        account's privacy
+                      </li>
+                      <li>
+                        Always ensure you're browsing using HTTPS connections
+                      </li>
+                      <li>
+                        Avoid clicking on unknown or suspicious links to prevent
+                        phishing and malware attacks
+                      </li>
+                      <li>
+                        Never plug random or untrusted USB devices into your
+                        computer or phone
+                      </li>
+                      <li>
+                        Never reuse passwords; use unique passwords for every
+                        account
+                      </li>
+                      <li>Don't save passwords in your browser</li>
+                      <li>Never answer truthfully to security questions</li>
+                      <li>
+                        Check ATMs for card skimmers to protect against fraud
+                      </li>
+                      <li>Don't connect to public Wi-Fi</li>
+                    </ol>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+        </div>
+      </main>
     </div>
   );
 };
