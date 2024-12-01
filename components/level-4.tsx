@@ -1,3 +1,4 @@
+import Link from "next/link";
 import React from "react";
 
 const Level4 = () => {
@@ -20,8 +21,13 @@ const Level4 = () => {
                   <div className="prose prose-sm max-w-none">
                     <ol className="list-decimal pl-6 space-y-6 text-lg">
                       <li>
-                        Build a ghost, untraceable laptop [Build a Ghost
-                        Untraceable Laptop]
+                        Build a ghost, untraceable laptop{" "}
+                        <Link
+                          href="https://youtu.be/SLoiSCO2g7k"
+                          target="_blank"
+                        >
+                          [Build a Ghost Untraceable Laptop]
+                        </Link>
                       </li>
                       <li>
                         Encrypt every electronic device you use or avoid using

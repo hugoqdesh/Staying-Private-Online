@@ -29,7 +29,12 @@ const Level3 = () => {
                         through Tor
                       </li>
                       <li>Install NoScript extension</li>
-                      <li>Use virtual cards like from [privacy.com]</li>
+                      <li>
+                        Use virtual cards like from{" "}
+                        <Link href="https://privacy.com/" target="_blank">
+                          [privacy.com]
+                        </Link>
+                      </li>
                       <li>Remove SIM card if you don't need it</li>
                       <li>Keep airplane mode on when you can</li>
                       <li>Sign out of iCloud</li>
@@ -59,15 +64,34 @@ const Level3 = () => {
                       <li>Use bootable USB drives</li>
                       <li>
                         Use a YubiKey for two-factor authentication for
-                        sensitive accounts [Yubico]
+                        sensitive accounts{" "}
+                        <Link href="https://www.yubico.com/" target="_blank">
+                          [Yubico]
+                        </Link>
                       </li>
                       <li>
                         Delete your Google account to minimize your data
-                        footprint [Google My Activity]
+                        footprint{" "}
+                        <Link
+                          href="https://myactivity.google.com/"
+                          target="_blank"
+                        >
+                          [Google My Activity]
+                        </Link>
                       </li>
                       <li>
-                        Install [jan.ai], add a model to it, and use
-                        [huggingface assistants] to get different assistants
+                        Install{" "}
+                        <Link href="https://jan.ai/" target="_blank">
+                          [jan.ai]
+                        </Link>
+                        , add a model to it, and use{" "}
+                        <Link
+                          href="https://huggingface.co/chat/assistants"
+                          target="_blank"
+                        >
+                          [huggingface assistants]
+                        </Link>{" "}
+                        to get different assistants
                       </li>
                     </ol>
                   </div>
@@ -91,8 +115,11 @@ const Level3 = () => {
                         Reboot and factory reset your devices at times if needed
                       </li>
                       <li>
-                        Use [justdeleteme] to check how hard it is to delete
-                        other online accounts
+                        Use{" "}
+                        <Link href="https://justdeleteme.xyz/" target="_blank">
+                          [justdeleteme]
+                        </Link>{" "}
+                        to check how hard it is to delete other online accounts
                       </li>
                       <li>
                         When you don’t want to be recognized: avoid wearing

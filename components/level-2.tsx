@@ -1,3 +1,4 @@
+import Link from "next/link";
 import React from "react";
 
 const Level2 = () => {
@@ -20,8 +21,13 @@ const Level2 = () => {
                   <div className="prose prose-sm max-w-none">
                     <ol className="list-decimal pl-6 space-y-6 text-lg">
                       <li>
-                        Start using Linux distributions like Fedora, Arch, or
-                        Debian
+                        Start using Linux distributions like:
+                        <ul className="list-disc pl-4 mt-2">
+                          <li>Fedora</li>
+                          <li>Arch</li>
+                          <li>Whonix</li>
+                          <li>etc</li>
+                        </ul>
                       </li>
                       <li>
                         Install Browsers:
@@ -88,7 +94,12 @@ const Level2 = () => {
                         Use VirtualBox to run virtual machines for additional
                         privacy when performing certain tasks
                       </li>
-                      <li>For private note-taking, use [notesnook]</li>
+                      <li>
+                        For private note-taking, use{" "}
+                        <Link href="https://notesnook.com/" target="_blank">
+                          [notesnook]
+                        </Link>
+                      </li>
                     </ol>
                   </div>
                 </div>
@@ -106,11 +117,16 @@ const Level2 = () => {
                         Have more than one email address for different purposes
                       </li>
                       <li>
-                        Use an email alias with services like [simplelogin]
+                        Use an email alias with services like{" "}
+                        <Link href="https://simplelogin.io/" target="_blank">
+                          [simplelogin]
+                        </Link>
                       </li>
                       <li>
-                        Use a temporary email service when necessary, like
-                        [temp-mail]
+                        Use a temporary email service when necessary, like{" "}
+                        <Link href="https://temp-mail.org/" target="_blank">
+                          [temp-mail]
+                        </Link>
                       </li>
                       <li>
                         Activate screen lock when idle, and always lock your
