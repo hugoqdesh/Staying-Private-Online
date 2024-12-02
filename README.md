@@ -52,7 +52,7 @@ Cheers 🥂
 
 ## Level 2
 
-1. **Download and use a password manager:**
+1. **Start using linux distors like:**
    - Fedora
    - Arch
    - Whonix
