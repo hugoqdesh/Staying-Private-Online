@@ -79,7 +79,6 @@ Cheers 🥂
 12. Backup important data to a USB or external drive
 13. Install Exodus app on Android to check for app permissions and trackers
 14. Use VirtualBox to run virtual machines for additional privacy when performing certain tasks
-15. For private note-taking, use [notesnook](https://notesnook.com/)
 
 ---
 
