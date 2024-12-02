@@ -12,14 +12,15 @@ Cheers 🥂
 
 ## Table of Contents
 
-- [Section 1: The Basic Concepts](#section-1-the-basic-concepts)
-- [Section 2: Prompt Engineering - Basics](#section-2-prompt-engineering---basics)
-- [Section 3: Building GenAI Apps with LLM APIs](#section-3-building-genai-apps-with-llm-apis)
-- [Section 4: Embeddings and Vector Databases](#section-4-embeddings-and-vector-databases)
+- [Level 1](#level-1)
+- [Level 2](#level-2)
+- [Level 3](#level-3)
+- [Level 4](#level-4)
+- [Security Testing Tools](#security-testing-tools)
 
 ---
 
-## Level 1: The Basic Concepts
+## Level 1
 
 1. Protect your phone and computer with a strong password
 2. Disable biometrics on your devices
@@ -49,7 +50,7 @@ Cheers 🥂
 - Check ATMs for card skimmers to protect against fraud
 - Don't connect to public Wi-Fi
 
-## Level 2: Prompt Engineering - Basics
+## Level 2
 
 1. **Download and use a password manager:**
    - Fedora
@@ -92,7 +93,7 @@ Cheers 🥂
 - Clean your web history frequently
 - Avoid SMS and native calls when possible
 
-## Level 3: Building GenAI Apps with LLM APIs
+## Level 3
 
 1. Switch to Tor Browser for anonymous browsing
 2. Install Tails OS
@@ -126,7 +127,7 @@ Cheers 🥂
 - Use [justdeleteme](https://justdeleteme.xyz/) to check how hard it is to delete other online accounts
 - When you don’t want to be recognized: avoid wearing identifiable jewelry, use a masquerade or plain mask (e.g., scarf, neck gaiter), conceal your hairstyle with a hoodie or hat, cover tattoos, and wear sunglasses that hide your eyebrows and eyes. Choose plain dark clothing with no identifiable patterns. Consider bringing a quick-change outfit in a backpack
 
-## Level 4: Embeddings and Vector Databases
+## Level 4
 
 1. Build a ghost, untraceable laptop [Build a Ghost Untraceable Laptop](https://youtu.be/53_e3lmk6Mo)
 2. Encrypt every electronic device you use or avoid using them altogether
@@ -152,15 +153,3 @@ Cheers 🥂
 7. [Adblock Tester](https://d3ward.github.io/toolz/adblock.html)
 8. [Identity Theft Checker](https://www.f-secure.com/en/identity-theft-checker)
 9. [Have I Been Pwned](https://haveibeenpwned.com/)
-
-## TODO:
-
-- [ ] Include a more advanced Prompt Engineering section
-- [ ] Link additional resources
-- [ ] Find and link code examples of Generative AI applications using LLMs and LLM AI Agents
-- [ ] Link more of similar/on-topic repositories
-- [ ] Expand the optional theoretical background section to include resources for learning ML in depth and better resources on how LLMs work under the hood
-
-## License
-
-GNU General Public License v3.0
