@@ -84,9 +84,7 @@ Cheers 🥂
 
 - Use multiple browsers and search engines for different tasks to compartmentalize your activities
 - Have more than one email address for different purposes
-- Use an email alias with services like [simplelogin](https://simplelogin.io/)
 - Use a temporary email service when necessary, like [temp-mail](https://temp-mail.org/)
-- Activate screen lock when idle, and always lock your devices when not in use
 - Delete old social media accounts that you no longer use
 - Clear app cache regularly
 - Clean your web history frequently
