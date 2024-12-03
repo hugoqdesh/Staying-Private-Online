@@ -73,12 +73,11 @@ Cheers 🥂
    - Tutanota
 7. Get a privacy screen protector
 8. Change your usernames to be unique
-9. Set all social media accounts to private
-10. Use encrypted messaging apps like Signal or SimpleX as much as possible
-11. Uninstall EVERYTHING you don't need or use
-12. Backup important data to a USB or external drive
-13. Install Exodus app on Android to check for app permissions and trackers
-14. Use VirtualBox to run virtual machines for additional privacy when performing certain tasks
+9. Use encrypted messaging apps like Signal or SimpleX as much as possible
+10. Uninstall EVERYTHING you don't need or use
+11. Backup important data to a USB or external drive
+12. Install Exodus app on Android to check for app permissions and trackers
+13. Use VirtualBox to run virtual machines for additional privacy when performing certain tasks
 
 ---
 
@@ -100,20 +99,19 @@ Cheers 🥂
 6. Use virtual cards like from [privacy.com](https://privacy.com/)
 7. Remove SIM card if you don't need it
 8. Keep airplane mode on when you can
-9. Sign out of iCloud
-10. Cover your device's cameras to prevent surveillance
-11. Buy Faraday bags to block all wireless signals when you're carrying devices
-12. Use websites instead of apps to limit app-based tracking
-13. Install OsmAnd & Trail Sense on Android
-14. **GrapheneOS**
+9. Cover your device's cameras to prevent surveillance
+10. Buy Faraday bags to block all wireless signals when you're carrying devices
+11. Use websites instead of apps to limit app-based tracking
+12. Install OsmAnd & Trail Sense on Android
+13. **GrapheneOS**
     - Buy a Pixel phone with cash
     - Update it using store Wi-Fi
     - Install GrapheneOS
-15. On GrapheneOS, set up different profiles to compartmentalize data and apps
-16. Use bootable USB drives
-17. Use a YubiKey for two-factor authentication for sensitive accounts [Yubico](https://www.yubico.com/)
-18. Delete your Google account to minimize your data footprint [Google My Activity](https://myactivity.google.com/)
-19. Install [jan.ai](https://jan.ai/), add a model to it, and use [huggingface assistants](https://huggingface.co/chat/assistants) to get different assistants
+14. On GrapheneOS, set up different profiles to compartmentalize data and apps
+15. Use bootable USB drives
+16. Use a YubiKey for two-factor authentication for sensitive accounts [Yubico](https://www.yubico.com/)
+17. Delete your Google account to minimize your data footprint [Google My Activity](https://myactivity.google.com/)
+18. Install [jan.ai](https://jan.ai/), add a model to it, and use [huggingface assistants](https://huggingface.co/chat/assistants) to get different assistants
 
 ---
 
