@@ -95,23 +95,22 @@ Cheers 🥂
 2. Install Tails OS
 3. Install F-Droid and Aurora Store from there
 4. Install Orbot on Android to route your internet traffic through Tor
-5. Install NoScript extension
-6. Use virtual cards like from [privacy.com](https://privacy.com/)
-7. Remove SIM card if you don't need it
-8. Keep airplane mode on when you can
-9. Cover your device's cameras to prevent surveillance
-10. Buy Faraday bags to block all wireless signals when you're carrying devices
-11. Use websites instead of apps to limit app-based tracking
-12. Install OsmAnd & Trail Sense on Android
-13. **GrapheneOS**
+5. Use virtual cards like from [privacy.com](https://privacy.com/)
+6. Remove SIM card if you don't need it
+7. Keep airplane mode on when you can
+8. Cover your device's cameras to prevent surveillance
+9. Buy Faraday bags to block all wireless signals when you're carrying devices
+10. Use websites instead of apps to limit app-based tracking
+11. Install OsmAnd & Trail Sense on Android
+12. **GrapheneOS**
     - Buy a Pixel phone with cash
     - Update it using store Wi-Fi
     - Install GrapheneOS
-14. On GrapheneOS, set up different profiles to compartmentalize data and apps
-15. Use bootable USB drives
-16. Use a YubiKey for two-factor authentication for sensitive accounts [Yubico](https://www.yubico.com/)
-17. Delete your Google account to minimize your data footprint [Google My Activity](https://myactivity.google.com/)
-18. Install [jan.ai](https://jan.ai/), add a model to it, and use [huggingface assistants](https://huggingface.co/chat/assistants) to get different assistants
+13. On GrapheneOS, set up different profiles to compartmentalize data and apps
+14. Use bootable USB drives
+15. Use a YubiKey for two-factor authentication for sensitive accounts [Yubico](https://www.yubico.com/)
+16. Delete your Google account to minimize your data footprint [Google My Activity](https://myactivity.google.com/)
+17. Install [jan.ai](https://jan.ai/), add a model to it, and use [huggingface assistants](https://huggingface.co/chat/assistants) to get different assistants
 
 ---
 
