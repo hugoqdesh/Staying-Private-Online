@@ -68,12 +68,10 @@ Cheers 🥂
    - Startpage
    - Brave Search
 5. Install Ublock Origin extension
-6. **Use privacy-focused email providers:**
-   - ProtonMail
-   - Tutanota
+6. Use privacy-focused email like Tutanota
 7. Get a privacy screen protector
 8. Change your usernames to be unique
-9. Use encrypted messaging apps like Signal or SimpleX as much as possible
+9. Use Signal as much as possible
 10. Uninstall EVERYTHING you don't need or use
 11. Backup important data to a USB or external drive
 12. Install Exodus app on Android to check for app permissions and trackers

@@ -1,6 +1,6 @@
-# Contributing to Veilr
+# Contributing
 
-Thank you for considering contributing to Veilr! Here are a few guidelines to follow when submitting your contributions:
+Thank you for considering contributing! Here are a few guidelines to follow when submitting your contributions:
 
 ## Titles
 
