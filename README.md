@@ -1,140 +1,54 @@
-# Staying Private Online Resource 🚀
+# Stay Private Online
 
 **Your data in the wrong hands, can be weaponized against you, your family, or your organization.**
 
-In this modern world, privacy is growing peoples concern and everyone is being watched. Achieving a fully complete anonymity level is almost impossible, but taking proactive steps to get there increases your privacy a lot.
+## Guide
 
-You can skip steps and implement them everything is up to you.
+1. Install a linux distro like Fedora, Arch etc
+1. Disable biometrics on your devices
+1. Download KeePassXC (Desktop) and KeePassDX (Android)
+1. Set a good strong password for your SIM and router
+1. Install Mullvad Browser, Librewolf, brave or firefox (harden it)
+1. Use DuckDuckGo, Startpage, Brave Search Engine
+1. Install Ublock Origin extension
+1. Install ProtonVPN
+1. Start using Tutanota email
+1. Use Signal as much as possible
+1. Install Exodus app on Android to check for app permissions and trackers
+1. Install Orbot on Android to route your internet traffic through Tor
+1. Install F-Droid and Aurora Store from there
+1. Install OsmAnd & Trail Sense on Android
 
-Cheers 🥂
+## Tasks
 
----
+1. Try to use Bluetooth and NFC as little as possible
+1. Disable notifications from lock screen
+1. Opt out of phone OS analytics and tracking services
+1. Uninstall EVERYTHING you don't need or use
+1. Never reuse passwords; use unique passwords for every account
+1. Don't save passwords in your browser
+1. Never answer truthfully to security questions
+1. Delete old social media accounts that you no longer use
+1. Clean your web history frequently
+1. Avoid SMS and native calls when possible
+1. Get rid of your SIM card if can manage without it
 
-## Table of Contents
+## Other Tasks
 
-- [Level 1](#level-1)
-- [Level 2](#level-2)
-- [Level 3](#level-3)
-- [Level 4](#level-4)
-- [Security Testing Tools](#security-testing-tools)
+1. Regularly update your software and apps
+1. Backup important data to a USB or external drive
+1. Clear app cache regularly
+1. Use websites instead of apps to limit app-based tracking
+1. Don't connect to public Wi-Fi
+1. Keep airplane mode on when you can
+1. Get a privacy screen protector
+1. Buy Faraday bags to block all wireless signals when you're carrying devices
+1. Use fake information about yourself where you can
+1. Pay with Monero or cash whenever possible to avoid being tracked
+1. Leave devices at home when possible to avoid being tracked
+1. When you don’t want to be recognized: avoid wearing identifiable jewelry, use a masquerade or plain mask (e.g., scarf, neck gaiter), conceal your hairstyle with a hoodie or hat, cover tattoos, and wear sunglasses that hide your eyebrows and eyes. Choose plain dark clothing with no identifiable patterns. Consider bringing a quick-change outfit in a backpack
 
----
-
-## Level 1
-
-1. Protect your phone and computer with a strong password
-2. Disable biometrics on your devices
-3. **Download and use a password manager:**
-   - Desktop: KeePassXC (recommended for offline use)
-   - Mobile: KeePassDX (Android) or Bitwarden (iOS)
-   - Create a strong master password
-4. **Enable Two-Factor Authentication (2FA):**
-   - Android: Aegis
-   - iOS: Tofu
-5. Set up a password for your SIM card
-6. Set a strong password for your router
-7. Keep Bluetooth and NFC off when not in use
-8. Disable notifications from lock screen
-9. Opt out of phone OS analytics and tracking services
-
----
-
-- Regularly update your software and apps
-- Never share your passwords with anyone to maintain your account's privacy
-- Always ensure you're browsing using HTTPS connections
-- Avoid clicking on unknown or suspicious links to prevent phishing and malware attacks
-- Never plug random or untrusted USB devices into your computer or phone
-- Never reuse passwords; use unique passwords for every account
-- Don't save passwords in your browser
-- Never answer truthfully to security questions
-- Check ATMs for card skimmers to protect against fraud
-- Don't connect to public Wi-Fi
-
-## Level 2
-
-1. **Start using linux distors like:**
-   - Fedora
-   - Arch
-   - Whonix
-   - etc
-2. **Install Browsers:**
-   - Desktop: Mullvad Browser, Librewolf, Brave
-   - Mobile: Brave
-3. **Set up a VPN:**
-   - Mullvad VPN
-   - ProtonVPN
-4. **Search Engines:**
-   - DuckDuckGo
-   - Startpage
-   - Brave Search
-5. Install Ublock Origin extension
-6. Use privacy-focused email like Tutanota
-7. Get a privacy screen protector
-8. Change your usernames to be unique
-9. Use Signal as much as possible
-10. Uninstall EVERYTHING you don't need or use
-11. Backup important data to a USB or external drive
-12. Install Exodus app on Android to check for app permissions and trackers
-13. Use VirtualBox to run virtual machines for additional privacy when performing certain tasks
-
----
-
-- Use multiple browsers and search engines for different tasks to compartmentalize your activities
-- Have more than one email address for different purposes
-- Use a temporary email service when necessary, like [temp-mail](https://temp-mail.org/)
-- Delete old social media accounts that you no longer use
-- Clear app cache regularly
-- Clean your web history frequently
-- Avoid SMS and native calls when possible
-
-## Level 3
-
-1. Switch to Tor Browser for anonymous browsing
-2. Install Tails OS
-3. Install F-Droid and Aurora Store from there
-4. Install Orbot on Android to route your internet traffic through Tor
-5. Use virtual cards like from [privacy.com](https://privacy.com/)
-6. Remove SIM card if you don't need it
-7. Keep airplane mode on when you can
-8. Cover your device's cameras to prevent surveillance
-9. Buy Faraday bags to block all wireless signals when you're carrying devices
-10. Use websites instead of apps to limit app-based tracking
-11. Install OsmAnd & Trail Sense on Android
-12. **GrapheneOS**
-    - Buy a Pixel phone with cash
-    - Update it using store Wi-Fi
-    - Install GrapheneOS
-13. On GrapheneOS, set up different profiles to compartmentalize data and apps
-14. Use bootable USB drives
-15. Use a YubiKey for two-factor authentication for sensitive accounts [Yubico](https://www.yubico.com/)
-16. Delete your Google account to minimize your data footprint [Google My Activity](https://myactivity.google.com/)
-17. Install [jan.ai](https://jan.ai/), add a model to it, and use [huggingface assistants](https://huggingface.co/chat/assistants) to get different assistants
-
----
-
-- Use fake information about yourself where you can
-- Pay with Monero or cash whenever possible to avoid being tracked
-- Leave devices at home when possible to avoid being tracked
-- Reboot and factory reset your devices at times if needed
-- Use [justdeleteme](https://justdeleteme.xyz/) to check how hard it is to delete other online accounts
-- When you don’t want to be recognized: avoid wearing identifiable jewelry, use a masquerade or plain mask (e.g., scarf, neck gaiter), conceal your hairstyle with a hoodie or hat, cover tattoos, and wear sunglasses that hide your eyebrows and eyes. Choose plain dark clothing with no identifiable patterns. Consider bringing a quick-change outfit in a backpack
-
-## Level 4
-
-1. Build a ghost, untraceable laptop [Build a Ghost Untraceable Laptop](https://youtu.be/53_e3lmk6Mo)
-2. Encrypt every electronic device you use or avoid using them altogether
-3. Set up everything under an anonymous LLC to shield your identity legally
-4. Remove the camera and microphone from all devices to avoid being recorded or spied on
-5. Switch to using dumb and burner phones to reduce your digital footprint
-6. Avoid using email entirely to prevent tracking and leaks
-7. Get rid of all social media
-
----
-
-- Never use real identification for any online or offline activity
-- Avoid surveillance cameras as much as possible to stay off the grid
-
-## Security Testing Tools
+## Testing Tools
 
 1. [Fingerprint.com](https://fingerprint.com/)
 2. [First Party Simulator](https://firstpartysimulator.org/)
